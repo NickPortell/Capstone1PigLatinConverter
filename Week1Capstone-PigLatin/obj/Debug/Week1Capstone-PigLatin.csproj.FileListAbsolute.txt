@@ -5,3 +5,10 @@ C:\GrandCircus\Documents\Capstones\Week1Capstone-PigLatin\Week1Capstone-PigLatin
 C:\GrandCircus\Documents\Capstones\Week1Capstone-PigLatin\Week1Capstone-PigLatin\bin\Debug\Week1Capstone-PigLatin.pdb
 C:\GrandCircus\Documents\Capstones\Week1Capstone-PigLatin\Week1Capstone-PigLatin\obj\Debug\Week1Capstone-PigLatin.exe
 C:\GrandCircus\Documents\Capstones\Week1Capstone-PigLatin\Week1Capstone-PigLatin\obj\Debug\Week1Capstone-PigLatin.pdb
+F:\GrandCircus\Documents\Labs\Capstone1PigLatinConverter\Week1Capstone-PigLatin\bin\Debug\Week1Capstone-PigLatin.exe.config
+F:\GrandCircus\Documents\Labs\Capstone1PigLatinConverter\Week1Capstone-PigLatin\bin\Debug\Week1Capstone-PigLatin.exe
+F:\GrandCircus\Documents\Labs\Capstone1PigLatinConverter\Week1Capstone-PigLatin\bin\Debug\Week1Capstone-PigLatin.pdb
+F:\GrandCircus\Documents\Labs\Capstone1PigLatinConverter\Week1Capstone-PigLatin\obj\Debug\Week1Capstone-PigLatin.csprojAssemblyReference.cache
+F:\GrandCircus\Documents\Labs\Capstone1PigLatinConverter\Week1Capstone-PigLatin\obj\Debug\Week1Capstone-PigLatin.csproj.CoreCompileInputs.cache
+F:\GrandCircus\Documents\Labs\Capstone1PigLatinConverter\Week1Capstone-PigLatin\obj\Debug\Week1Capstone-PigLatin.exe
+F:\GrandCircus\Documents\Labs\Capstone1PigLatinConverter\Week1Capstone-PigLatin\obj\Debug\Week1Capstone-PigLatin.pdb
